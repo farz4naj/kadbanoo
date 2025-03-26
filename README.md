@@ -8,8 +8,15 @@ Features
 
 
 ✅ Collection of authentic Afghan recipes
-✅ Step-by-step cooking instructions
+
+
+✅ Step-by-step cooking instruction
+
+
 ✅ Ingredient lists with measurements
+
+
+
 ✅ Traditional sweets and desserts section
 
 
